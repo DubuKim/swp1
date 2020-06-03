@@ -1,2 +1,2 @@
-# 20172881 	Jaehyun Kim
-# Kookmin Univ. SW
+# 2017XXXX	Jaehyun Kim
+Kookmin Univ. SW
