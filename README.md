@@ -1,2 +1,2 @@
-# 2017XXXX	Jaehyun Kim
-Kookmin Univ. Computer Science
+# 2017XXX	Jaehyun Kim
+# Kookmin Univ. Computer Science
