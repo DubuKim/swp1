@@ -8,13 +8,13 @@ def application(environ, start_response):
 		if '' not in [a, b]:
 			a, b = int(a), int(b)
 			response_body = html % {
-				'sum' : a + b,
-				'product' : a * b
+				'sum' : str(a + b),
+				'product' : str(a * b)
 			}
 		else:
 			response_body = html % {
-				'sum' : 0,
-				'product' : 0 
+				'sum' : "No Input",
+				'product' : "No Input" 
 			}
 		start_response('200 OK', [
 		  ('Content-Type', 'text/html'),
